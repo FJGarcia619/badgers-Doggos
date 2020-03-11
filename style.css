@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+}
+.header {
+    color: white;
+    background-color: blue;
+    font-family:'courier Ner',Courier, monospace;
+    font-size: 35px;
+    padding-top: 25px;
+    padding-bottom: 25;
+    display: flex;
+    justify-content: center;
+}
+.badgers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
